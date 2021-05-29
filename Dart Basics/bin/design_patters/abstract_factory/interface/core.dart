@@ -1,0 +1,1 @@
+enum CarType { Sports, Normal }
